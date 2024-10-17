@@ -3,6 +3,7 @@ const carro = {
   modelo: "Corolla",
   ano: 2022,
 };
+console.log(carro);
 
 carro.cor = "vermelho";
 
@@ -13,3 +14,5 @@ if (carro.hasOwnProperty("marca") === true) {
 } else {
   console.log("O carro NÃO tem a propriedade marca");
 }
+
+console.log(carro);
