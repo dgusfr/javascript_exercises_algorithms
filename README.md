@@ -1,12 +1,6 @@
-# Repositório de Algoritmos com JavaScript
+# Algoritmos com JavaScript
 
 Este repositório é uma coleção de exercícios e algoritmos em JavaScript, focados em ensinar conceitos fundamentais de programação, incluindo manipulação de strings, arrays, objetos, cálculos matemáticos, funções e estruturas de controle de fluxo.
-
-## Interface
-
-<div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
-</div>
 
 ## Sumário
 
