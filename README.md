@@ -25,7 +25,9 @@ Este repositório é uma coleção de exercícios e algoritmos em JavaScript, fo
 
 ## Descrição
 
-Este projeto reúne diversos exercícios de algoritmos em JavaScript que abordam desde cálculos básicos até manipulação de estruturas de dados, com o objetivo de desenvolver habilidades essenciais de programação. Os exercícios são adequados para iniciantes e intermediários que desejam praticar lógica de programação e conhecer os principais conceitos da linguagem JavaScript.
+Este projeto reúne diversos exercícios de algoritmos em JavaScript que abordam desde cálculos básicos até manipulação de estruturas de dados, com o objetivo de desenvolver habilidades essenciais de programação.
+
+Os exercícios são adequados para iniciantes e intermediários que desejam praticar lógica de programação e conhecer os principais conceitos da linguagem JavaScript.
 
 ## Funcionalidades
 
